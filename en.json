@@ -1,3 +1,4 @@
 {
-  "ehlo": "Hello world!"
+  "ehlo": "Hello world!",
+  "test": "me"
 }
